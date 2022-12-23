@@ -147,7 +147,7 @@ class App:
 
     Contributor(s):
         * ushan.jayasooriya@colombo.rezgateway.com
-        * ushnajayasooriya@gmail.com
+        * ushanjayasooriya@gmail.com
 
 '''
 
